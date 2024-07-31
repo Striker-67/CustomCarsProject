@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 256913572
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: car
+      Dependencies: {}
