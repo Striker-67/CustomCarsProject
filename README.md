@@ -12,3 +12,6 @@ click code
 then click downloadzip
 
 ![image](https://github.com/user-attachments/assets/9f5d3545-1203-4e00-a920-e76108b5b342)
+
+
+to post your car go to this discord https://discord.gg/XRjZc2p3qQ amd go to the custom cars forum and post the car (has to follow the rules)
